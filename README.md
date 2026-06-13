@@ -10,5 +10,5 @@
 - Autoplay
 
 
-![Music Player](Task4/Task4_Screenshot.jpg)
+![Music Player](Task4_Screenshot.jpg)
 
