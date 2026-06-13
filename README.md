@@ -12,3 +12,6 @@
 
 ![Music Player](Task4_Screenshot.jpg)
 
+
+## Live Demo
+🔗 https://edlaabhishek.github.io/CodeAlpha_Music-Player-using-JavaScript/
