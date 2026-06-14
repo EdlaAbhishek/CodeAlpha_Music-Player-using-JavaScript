@@ -32,7 +32,7 @@ cover:"images/smile.jpg"
 title:"Lovely",
 artist:"Billie Eilish & Khalid",
 src:"songs/lovely.mp3",
-cover:"images/lovely.jpg"
+cover:"images/Lovely.jpg"
 }
 
 ];
